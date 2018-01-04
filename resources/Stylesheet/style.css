@@ -1,0 +1,31 @@
+
+
+body{
+  text-align:center;
+  background-color:black;
+  font-family:verdana;
+}
+
+a{
+  color:aquamarine;
+  font-size:16px;
+}
+
+.subtitle{
+  font-family:Verdana;
+  font-weight:300;
+  font-size:42px;
+  color:white
+}
+
+.title{
+  font-family:Verdana;
+  font-weight:normal;
+  font-size:50px;
+  color:white;
+}
+
+.description{
+  color:grey;
+  font-size:21px;
+}
